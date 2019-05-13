@@ -1,6 +1,4 @@
 """
-Created on Thu Mar 28 16:17:15 2019
-
 @author: stefan
 """
 # name the player for whom the plot should be made
