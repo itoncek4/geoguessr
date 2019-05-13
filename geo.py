@@ -1,6 +1,4 @@
 """
-Created on Sat May 11 18:04:23 2019
-
 @author: stefan
 """
 
