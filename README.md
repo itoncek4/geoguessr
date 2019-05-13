@@ -18,6 +18,9 @@ The plot.py file lets you plot your performance in different countries.
   - set name to one of the names of the players
 
 
+Changes in season length and point system need to be done in the GeoGuessr class found in the Geoguessr.py file.
+
+
 There might be some issues with players scoring the exact same amount of points.
 
 You should adapt the program if you play every season against in a different group
