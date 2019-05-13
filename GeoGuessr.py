@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Mon Mar 25 17:13:40 2019
-
 @author: stefan
 """
 # import libraries
